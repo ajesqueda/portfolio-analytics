@@ -5,7 +5,7 @@
 
 ### Exploratory Data Analysis
 
-- Project 1: Exploratory Analysis of Employee Attrition
+- Project 1: Exploratory Analysis of Olympics Dataset
 - Project 2: Analysis of Airbnb listings in San Francisco
 
 ### Modeling
