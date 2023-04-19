@@ -11,16 +11,16 @@
 ### Modeling
 
 - Project 3: Predicting Charges on Health Insurance based on BMI
-- Project 4: Predicting Bike Sharing Demand using Random Forest
+- Project 4: Predicting COVID-19 Cases per Country
 
-### Supervised Learning
+### Supervised & Unsupervised Learning
 
 - Project 5: Classification of Bank Customer Churn using Support Vector Machines
 - Project 6: Predicting Wine Quality using Multiple Linear Regression
 
-### Unsupervised Learning
+### Data Visualization
 
-- Project 7: Clustering of Iris Flower Species using K-Means
+- Project 7: Heatmap for credit union's potential new locations.
 - Project 8: Dimensionality Reduction using Principal Component Analysis (PCA)
 
 ## Contact Me
