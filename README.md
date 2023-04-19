@@ -10,7 +10,7 @@
 
 ### Modeling
 
-- Project 3: Predicting Employee Attrition using Logistic Regression
+- Project 3: Predicting Charges on Health Insurance based on BMI
 - Project 4: Predicting Bike Sharing Demand using Random Forest
 
 ### Supervised Learning
