@@ -15,7 +15,7 @@
 
 ### Supervised & Unsupervised Learning
 
-- Project 5: Classification of Bank Customer Churn using Support Vector Machines
+- Project 5: Predictinon of acceptance of loan insurance from UniversalBank data.
 - Project 6: Predicting Wine Quality using Multiple Linear Regression
 
 ### Data Visualization
