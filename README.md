@@ -6,7 +6,7 @@
 ### Exploratory Data Analysis
 
 - Project 1: Exploratory Analysis of Olympics Dataset
-- Project 2: Analysis of Airbnb listings in San Francisco
+- Project 2: Analysis of Airbnb listings from years 2014-2015
 
 ### Modeling
 
@@ -21,7 +21,7 @@
 ### Data Visualization
 
 - Project 7: Heatmap for credit union's potential new locations.
-- Project 8: Dimensionality Reduction using Principal Component Analysis (PCA)
+- Project 8: Netflix Data for shows and movies from the year 2000.
 
 ## Contact Me
 
