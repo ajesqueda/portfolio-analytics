@@ -16,7 +16,7 @@
 ### Supervised & Unsupervised Learning
 
 - Project 5: Prediction of acceptance of loan insurance from UniversalBank data.
-- Project 6: Clustering the Countries by using Unsupervised Learning for HELP International
+- Project 6: Credit card clustering.
 
 ### Data Visualization
 
